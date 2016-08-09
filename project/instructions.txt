@@ -1,0 +1,6 @@
+Instructions for running this network:
+
+1. Install Python
+2. Install Pip
+3. Use Pip to install numpy, scipy, theano
+4. Run "python production_rule.py"
